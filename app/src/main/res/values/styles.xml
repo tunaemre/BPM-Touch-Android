@@ -1,0 +1,29 @@
+<resources>
+
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorPrimary">@color/App_Primary_Color</item>
+        <item name="colorPrimaryDark">@color/App_PrimaryDark_Color</item>
+        <item name="colorAccent">@color/App_Accent_Color</item>
+    </style>
+
+    <style name="AppTheme.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="AppTheme.Button.Primary" parent="Widget.AppCompat.Button.Colored">
+        <item name="colorButtonNormal">@color/App_Primary_Color</item>
+        <item name="android:textColorPrimary">#ffffff</item>
+    </style>
+
+    <style name="AppTheme.Button.PrimaryDark" parent="Widget.AppCompat.Button.Colored">
+        <item name="colorButtonNormal">@color/App_PrimaryDark_Color</item>
+        <item name="android:textColorPrimary">#ffffff</item>
+    </style>
+
+    <style name="AppTheme.Button.Accent" parent="Widget.AppCompat.Button.Colored">
+        <item name="colorButtonNormal">@color/App_Accent_Color</item>
+        <item name="android:textColorPrimary">#ffffff</item>
+    </style>
+
+</resources>
