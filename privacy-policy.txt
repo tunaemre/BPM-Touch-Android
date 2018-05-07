@@ -1,0 +1,5 @@
+BPM Touch - Privacy Policy
+
+The app doesn't collect any information about the device nor the user. It doesn't even need access to the internet.
+
+It needs access to the microphone though. It will access and listen to the microphone only when the app is open and the UI visible. The sound is processed in real time and never saved anywhere.
